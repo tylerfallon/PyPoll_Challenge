@@ -2,7 +2,7 @@
 
 ## Overview and Purpose
 
-The purpose of this election audit analysis is analyze a .csv file of raw election data and analyze it in order to provide statistics such as the election winner, total votes cast, votes cast by county, turnout, and more. 
+The purpose of this election audit analysis is analyze a .csv file of raw election data and analyze it in order to provide statistics such as the election winner, total votes cast, votes cast by county, turnout, and more. This script could then be reused and applied to future elections as well, allowing for a quick and easy analysis of the results. 
 
 ## Election-Audit Results
 
